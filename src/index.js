@@ -90,18 +90,6 @@ class App extends React.Component {
     });
   }
 
-  showContactEvenIDs() {
-
-    let data = this.state.contacts.filter(contact => contact.id % 1);
-
-    this.setState({ contacts: data });
-  }
-
-  getAllContacts() {
-    return this.state.baseContacts;
-  }
-
-
   render() {
     return (
       <>
