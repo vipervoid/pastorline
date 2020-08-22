@@ -1,0 +1,58 @@
+{
+    "total": 10, 
+    "contacts_ids": [ 
+        745450,
+        502931
+    ],
+    "contacts": { 
+        "745450": {
+            "id": 745450,
+            "first_name": "Jason1",
+            "last_name": "Alexis1",
+            "email": null,
+            "phone_number": "9404480524",
+            "country_id": 226
+        },
+        "502931": {
+            "id": 502931,
+            "first_name": "jason",
+            "last_name": "Alexis",
+            "email": "",
+            "phone_number": "0",
+            "country_id": 226
+        },
+        "1": {
+            "id": 1,
+            "first_name": "odd1",
+            "last_name": "odd1",
+            "email": "",
+            "phone_number": "2",
+            "country_id": 227
+        },
+        "2": {
+            "id": 2,
+            "first_name": "even1",
+            "last_name": "even1",
+            "email": "",
+            "phone_number": "23",
+            "country_id": 227
+        },
+        "3": {
+            "id": 3,
+            "first_name": "odd2",
+            "last_name": "odd2",
+            "email": "",
+            "phone_number": "3",
+            "country_id": 227
+        },
+        "4": {
+            "id": 4,
+            "first_name": "even2",
+            "last_name": "even2",
+            "email": "",
+            "phone_number": "3",
+            "country_id": 227
+        }
+    }
+
+}

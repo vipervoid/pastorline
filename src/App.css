@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+
+.bg-color-a {
+  background: #46139f !important;
+}
+
+.bg-color-b {
+  background: #ff7f50 !important;
+}
